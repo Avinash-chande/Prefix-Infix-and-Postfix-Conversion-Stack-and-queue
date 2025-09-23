@@ -1,11 +1,11 @@
-infix_to_postfix.cpp
+infix_to_postfix
 
-infix_to_prefix.cpp
+infix_to_prefix
 
-postfix_to_infix.cpp
+postfix_to_infix
 
-postfix_to_prefix.cpp
+postfix_to_prefix
 
-prefix_to_infix.cpp
+prefix_to_infix
 
-prefix_to_postfix.cpp
+prefix_to_postfix
