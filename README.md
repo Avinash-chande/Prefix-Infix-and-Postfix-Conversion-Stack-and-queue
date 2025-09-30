@@ -32,6 +32,4 @@ Each conversion respects operator precedence and parentheses, ensuring valid res
 
 ---
 
-## 📁 Directory Structure
-
 
