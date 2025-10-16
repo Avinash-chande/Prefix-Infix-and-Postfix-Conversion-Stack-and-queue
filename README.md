@@ -11,7 +11,7 @@ A C++ project illustrating conversions between **prefix**, **infix**, and **post
 
 This project provides implementations in C++ for converting between the three common notations of arithmetic expressions:
 
-- **Infix** — The usual human-readable form, e.g. `A + B * C`  
+- **Infix** — The usual human-readable form, e.g. `(A + B) * C`  
 - **Prefix** (Polish notation) — Operator comes before operands, e.g. `+ A * B C`  
 - **Postfix** (Reverse Polish notation) — Operator comes after operands, e.g. `A B C * +`
 
