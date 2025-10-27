@@ -9,7 +9,7 @@ A C++ project illustrating conversions between **prefix**, **infix**, and **post
 
 ## 🧩 Overview
 
-This project provides implementations in C++ for converting between the three common notations of arithmetic expressions:
+This project provides implementations in C++ for converting between the three common notations of arithmetic expressions:-
 
 - **Infix** — The usual human-readable form, e.g. `(A + B) * C`  
 - **Prefix** (Polish notation) — Operator comes before operands, e.g. `+ A * B C`  
