@@ -28,7 +28,7 @@ Conversion is done using stacks (and where useful, queues) to handle operator pr
 - Convert **Postfix → Infix**  
 - Convert **Postfix → Prefix**
 
-Each conversion respects operator precedence and parentheses, ensuring valid results (or detecting invalid input where applicable).
+Each conversion respects operator precedence and parentheses, ensuring valid results (or detecting invalid input where applicable)
 
 
 
