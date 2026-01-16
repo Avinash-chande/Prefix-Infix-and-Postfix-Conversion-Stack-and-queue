@@ -15,7 +15,7 @@ This project provides implementations in C++ for converting between the three co
 - **Prefix** (Polish notation) — Operator comes before operands, e.g. `+ A * B C`  
 - **Postfix** (Reverse Polish notation) — Operator comes after operands, e.g. `A B C * +`
 
-Conversion is done using stacks (and where useful, queues) to handle operator precedence, associativity, and parentheses.
+Conversion is done using stacks (and where useful, queues) to handle operator precedence, associativity, and parentheses
 
 ---
 
