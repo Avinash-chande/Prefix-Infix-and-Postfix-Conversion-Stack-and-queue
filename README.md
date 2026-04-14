@@ -2,7 +2,7 @@
 
 [![C++](https://img.shields.io/badge/language-C%2B%2B-lightgrey.svg)](#)  
 
-A C++ project illustrating conversions between **prefix**, **infix**, and **postfix** expressions using stack and queue data structures.
+A C++ project illustrating conversions between **prefix**, **infix**, and **postfix** expressions using stack and queue data structures
 
 ---
 
